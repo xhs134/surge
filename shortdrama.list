@@ -1,0 +1,57 @@
+# NAME: shortdrama
+# AUTHOR: xhs134
+# UPDATED: 2026-11-16
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 29
+# GEOIP: 1
+# TOTAL: 32
+
+# 红果、抖音及弹幕
+DOMAIN-SUFFIX,fqnovel.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,fqnovelpic.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytednsdoc.com
+
+# 七猫
+DOMAIN-SUFFIX,qmplaylet.com
+DOMAIN-SUFFIX,wtzw.com
+
+# 星芽
+DOMAIN-SUFFIX,whjzjx.cn
+DOMAIN-SUFFIX,shytkjgs.com
+DOMAIN-SUFFIX,xingya.com.cn
+DOMAIN-SUFFIX,rongjuwh.cn
+
+# 喜番
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,adukwai.com
+
+# 河马
+DOMAIN-SUFFIX,zqqds.cn
+DOMAIN-SUFFIX,kuaikaw.cn
+DOMAIN-SUFFIX,cbread.cn
+
+# 火龙及弹幕
+DOMAIN-SUFFIX,kairos.qq.com
+DOMAIN-SUFFIX,video.qq.com
+DOMAIN-SUFFIX,manju.v.qq.com
+DOMAIN-SUFFIX,tc.qq.com
+DOMAIN-SUFFIX,qpic.cn
+
+# 好看、柚漫剧
+DOMAIN,sv.baidu.com
+DOMAIN,yo.baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+
+# 围观
+DOMAIN-SUFFIX,9ddm.com
+
+# 通用兜底
+GEOIP,CN
