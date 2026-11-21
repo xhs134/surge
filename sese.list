@@ -1,8 +1,8 @@
 # NAME: sese
 # AUTHOR: xhs134
 # UPDATED: 2026-11-22
-# DOMAIN-SUFFIX: 17
-# TOTAL: 17
+# DOMAIN-SUFFIX: 14
+# TOTAL: 14
 
 # 黄果规则
 DOMAIN-SUFFIX,huangguoai.com
@@ -21,11 +21,6 @@ DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,jdforrepam.com
 DOMAIN-SUFFIX,c0.jdbstatic.com
 DOMAIN-SUFFIX,tp.spfcas.com
-
-# hanime1模块代理
-DOMAIN-SUFFIX,hanime1.me
-DOMAIN-SUFFIX,hembed.com
-DOMAIN-SUFFIX,iili.io
 
 # 封面拼接
 DOMAIN-SUFFIX,pics.dmm.co.jp
