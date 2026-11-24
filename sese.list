@@ -1,14 +1,15 @@
 # NAME: sese
 # AUTHOR: xhs134
-# UPDATED: 2026-11-22
-# DOMAIN-SUFFIX: 14
-# TOTAL: 14
+# UPDATED: 2026-11-24
+# DOMAIN-SUFFIX: 15
+# TOTAL: 15
 
 # 黄果规则
 DOMAIN-SUFFIX,huangguoai.com
 DOMAIN-SUFFIX,pic.drleao.cn
 DOMAIN-SUFFIX,rlhjeyuvw.cc
 DOMAIN-SUFFIX,hzjvlo.cn
+DOMAIN-SUFFIX,qnlycc.cn
 
 # 播放源
 DOMAIN-SUFFIX,jable.tv
