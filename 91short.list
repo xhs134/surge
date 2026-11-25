@@ -1,0 +1,14 @@
+# NAME: 91short
+# AUTHOR: xhs134
+# UPDATED: 2026-11-26
+# DOMAIN: 7
+# TOTAL: 7
+
+# 91short 分流规则
+DOMAIN,cn8.91short.com
+DOMAIN,img.dd.frcfwb.cn
+DOMAIN,cdn2.dd.frcfwb.cn
+DOMAIN,ha2.dd.frcfwb.cn
+DOMAIN,ehapp2.dd.frcfwb.cn
+DOMAIN,cc.xn--zoomm.com
+DOMAIN,image.zhihuishu.com
